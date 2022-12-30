@@ -1,0 +1,57 @@
+body {
+    background-color: darkslateblue;
+    background-image: url('brain2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    color: black;
+    font-size: larger;
+}
+
+h3 {
+    color: darkblue;
+    font-size: large;
+}
+
+h1,
+h2 {
+    color: white;
+}
+
+ol {
+    color: black;
+    font-size: larger;
+}
+
+img {
+    border-radius: 50%;
+    border-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.titbits {
+    text-align: center;
+}
+
+.heading {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.name {
+    text-align: center;
+}
